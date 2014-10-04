@@ -1,0 +1,75 @@
+body {
+	background: #FF9999;
+	
+}
+
+.container {
+	width: 100%;
+	display: inline-block;
+}
+
+.header {
+	text-align: left;
+	margin-left: 10px;
+	color: white;
+	font-family: 'Fugaz One', cursive;
+
+}
+
+.container-one {
+	display: inline-block;
+	border-bottom: 5px groove white;
+}
+
+.left-image {
+	float: left;
+
+}
+
+.right-text { 
+	width: 60%;
+	float: right;
+	padding: 10px;
+	color: white;
+	font-family: 'Fugaz One', cursive;
+}
+
+.container-two {
+	display: inline-block;
+	border-bottom: 5px groove white;
+}
+
+.right-image {
+	float: right;
+	width: 40%;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.left-text {
+	width: 50%;
+	float: right;
+	padding: 10px;
+	color: white;
+	font-family: 'Fugaz One', cursive;
+}
+
+.contact-list li {
+	display: inline-block;
+	margin: 30px;
+}
+.contact {
+	text-align: center;
+	margin-top: 40px;
+
+}
+
+a:hover {
+	color: #0EE9F9;
+}
+
+
+
+
+	
